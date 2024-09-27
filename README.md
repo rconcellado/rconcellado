@@ -48,7 +48,14 @@ I am a **Full Stack Developer** with over 10 years of experience in full-stack d
 
 ### **Software Engineer** | AIA Singapore Pte. Ltd. (Aug 2015 - Aug 2018)
 - Developed financial transaction features and automated job scheduling using **Autosys Workload Automation**.
-  
+
+### **Full Stack Developer** | MYCOM Systems LLC, Dubai (Dec 2010 - Feb 2015)
+- Supported inventory and sales systems across Bahrain, Oman, Qatar, Dubai, Saudi Arabia, and Sri Lanka.
+- Planned and executed development projects for new and existing applications.
+- Provided user training and created detailed documentation to clarify update processes.
+- Collaborated with cross-functional teams to upgrade legacy systems and enhance software functionalities.
+- Developed cloud-based applications to streamline business operations and ensure secure data management.
+
 ---
 
 ## 🎓 Education
