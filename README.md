@@ -47,7 +47,12 @@ I am a **Full Stack Developer** with over 10 years of experience in full-stack d
 - Managed a billing system for 45,000 clients and integrated vendor data for enhanced functionalities.
 
 ### **Software Engineer** | AIA Singapore Pte. Ltd. (Aug 2015 - Aug 2018)
+- Implemented a feature to send financial account checks to Standard Chartered Bank and
+  manage returned files via the Cheque Payment Gateway.
 - Developed financial transaction features and automated job scheduling using **Autosys Workload Automation**.
+- Assisted in migrating the Autosys Workload Automation for the Cheque Payment Gateway to
+  IBM's Managed File Transfer.
+
 
 ### **Full Stack Developer** | MYCOM Systems LLC, Dubai (Dec 2010 - Feb 2015)
 - Supported inventory and sales systems across Bahrain, Oman, Qatar, Dubai, Saudi Arabia, and Sri Lanka.
