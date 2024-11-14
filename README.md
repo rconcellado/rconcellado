@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Reynaldo Concellado!
 
-I am a **Full Stack Developer** with over 10 years of experience in full-stack development, desktop applications, and software engineering. I specialize in building scalable solutions using **ASP.NET Core**, **C#**, **PostgreSQL**, and **PowerBuilder**, while integrating APIs and deploying cloud applications. I am passionate about delivering clean, efficient code and providing seamless user experiences.
+I am a **Full Stack Developer** with over 14 years of experience in full-stack development, desktop applications, and software engineering. I specialize in building scalable solutions using **ASP.NET Core**, **C#**, **PostgreSQL**, and **PowerBuilder**, while integrating APIs and deploying cloud applications. I am passionate about delivering clean, efficient code and providing seamless user experiences.
 
 ---
 
