@@ -4,7 +4,7 @@ I am a **Full Stack Developer** with over 14 years of experience in full-stack d
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 - **Frontend:** React.js, HTML5, CSS3, Bootstrap, Razor Views, JavaScript
 - **Backend:** ASP.NET Core MVC, C#, Entity Framework Core, PowerBuilder Appeon 2022 R2, RESTful APIs
 - **Databases:** PostgreSQL, Microsoft SQL Server, Oracle PL/SQL, MySQL, SQLite, MongoDB
@@ -14,7 +14,7 @@ I am a **Full Stack Developer** with over 14 years of experience in full-stack d
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### St. Louis Clinic Management System
 - **Description:** A comprehensive Clinic Management System built using microservices architecture.
@@ -30,18 +30,16 @@ I am a **Full Stack Developer** with over 14 years of experience in full-stack d
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-Senior Programmer Analyst	February 2025 – Present
-Assiniboine College | Canada
-●	Develops and maintains BI and software applications and database systems by evaluating client needs and analyzing requirements.
-●	Arranges project requirements in programming sequence by analyzing requirements, preparing a workflow chart and diagram using knowledge of computer capabilities, subject matter, programming language, and logic.
-●	Accomplishes programming project requirements by coaching and supervising junior programmer analysts.
-●	Plans programming projects by confirming application objectives and specifications with stakeholders and clients.
-●	Collaborates with all programmer analysts, ERP system analyst, and Information and
-●	Technology Services (ITS) in conceptualizing and developing new software and BI applications.
-●	Analyzes and assesses existing business systems and procedures.
-●	Conducts research on emerging application development software products, languages, and standards in support of procurement and development efforts.
+### **Senior Programmer Analyst** | Assiniboine College, Canada (Feb 2025 – Present)
+- Develop and maintain BI and software applications and database systems by evaluating client needs and analyzing requirements.
+- Arrange project requirements into programming sequence by preparing workflow charts and diagrams, leveraging knowledge of computer capabilities, subject matter, programming languages, and logic.
+- Accomplish project deliverables by coaching and supervising junior programmer analysts.
+- Plan programming projects by confirming application objectives and specifications with stakeholders and clients.
+- Collaborate with programmer analysts, the ERP systems analyst, and Information & Technology Services (ITS) to conceptualize and develop new software and BI applications.
+- Analyze and assess existing business systems and procedures to identify improvements.
+- Conduct research on emerging development tools, languages, and standards to support procurement and development efforts.
 
 ### **Full Stack Developer** | Freelance | Inland (Aug 2024 - Present)
 - Developed the **St. Louis Clinic Management System** using **React.js** and **ASP.NET Core**.
@@ -58,12 +56,9 @@ Assiniboine College | Canada
 - Managed a billing system for 45,000 clients and integrated vendor data for enhanced functionalities.
 
 ### **Software Engineer** | AIA Singapore Pte. Ltd. (Aug 2015 - Aug 2018)
-- Implemented a feature to send financial account checks to Standard Chartered Bank and
-  manage returned files via the Cheque Payment Gateway.
+- Implemented a feature to send financial account checks to Standard Chartered Bank and manage returned files via the Cheque Payment Gateway.
 - Developed financial transaction features and automated job scheduling using **Autosys Workload Automation**.
-- Assisted in migrating the Autosys Workload Automation for the Cheque Payment Gateway to
-  IBM's Managed File Transfer.
-
+- Assisted in migrating the Autosys Workload Automation for the Cheque Payment Gateway to IBM's Managed File Transfer.
 
 ### **Full Stack Developer** | MYCOM Systems LLC, Dubai (Dec 2010 - Feb 2015)
 - Supported inventory and sales systems across Bahrain, Oman, Qatar, Dubai, Saudi Arabia, and Sri Lanka.
@@ -74,7 +69,7 @@ Assiniboine College | Canada
 
 ---
 
-## 🎓 Education
+## Education
 
 ### **Bow Valley College** | Calgary, Alberta
 - **Diploma in Software Development** (Apr 2024)
@@ -84,7 +79,7 @@ Assiniboine College | Canada
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 - **LinkedIn:** [Reynaldo Concellado](https://www.linkedin.com/in/rconcellado)
 - **Email:** [rey.concellado@gmail.com](mailto:rey.concellado@gmail.com)
 
