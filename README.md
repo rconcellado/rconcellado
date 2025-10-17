@@ -32,6 +32,17 @@ I am a **Full Stack Developer** with over 14 years of experience in full-stack d
 
 ## 💼 Work Experience
 
+Senior Programmer Analyst	February 2025 – Present
+Assiniboine College | Canada
+●	Develops and maintains BI and software applications and database systems by evaluating client needs and analyzing requirements.
+●	Arranges project requirements in programming sequence by analyzing requirements, preparing a workflow chart and diagram using knowledge of computer capabilities, subject matter, programming language, and logic.
+●	Accomplishes programming project requirements by coaching and supervising junior programmer analysts.
+●	Plans programming projects by confirming application objectives and specifications with stakeholders and clients.
+●	Collaborates with all programmer analysts, ERP system analyst, and Information and
+●	Technology Services (ITS) in conceptualizing and developing new software and BI applications.
+●	Analyzes and assesses existing business systems and procedures.
+●	Conducts research on emerging application development software products, languages, and standards in support of procurement and development efforts.
+
 ### **Full Stack Developer** | Freelance | Inland (Aug 2024 - Present)
 - Developed the **St. Louis Clinic Management System** using **React.js** and **ASP.NET Core**.
 - Built secure **RESTful APIs** for patient, appointment, and provider management.
