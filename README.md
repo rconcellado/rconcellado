@@ -25,7 +25,7 @@ ASP.NET Core · Blazor · EF Core · SQL Server
 Retail management platform covering point-of-sale operations,
 inventory, purchasing, suppliers, cashiering, and reconciliation.
 
-[View POS Project →](https://github.com/rconcellado/store-management)
+[View POS Project →](https://github.com/rconcellado/pamaligya-pos)
 
 ### Store Management Platform
 Flutter · ASP.NET Core · Blazor · Next.js · SQL Server
@@ -33,7 +33,7 @@ Flutter · ASP.NET Core · Blazor · Next.js · SQL Server
 Multi-application retail platform supporting administration,
 inventory, sales, consignment, reporting, and storefront operations.
 
-[View RV Store Project →](https://github.com/rconcellado/REPOSITORY-NAME)
+[View RV Store Project →](https://github.com/rconcellado/rv-store-management)
 
 ## Core Technologies
 
