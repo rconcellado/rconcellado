@@ -10,7 +10,7 @@ application modernization.
 
 ## Featured Projects
 
-### LoanJuan Lending Management Platform
+### LoanJuan - Lending Management Platform
 Flutter · ASP.NET Core · EF Core · PostgreSQL · REST API · CI/CD
 
 Full-stack lending management platform covering borrower management,
@@ -19,7 +19,7 @@ authorization, and financial transaction processing.
 
 [View LoanJuan Project →](https://github.com/rconcellado/loanjuan-lending-management)
 
-### Pamaligya POS Point of Sale & Inventory Management
+### Pamaligya POS - Point of Sale & Inventory Management
 ASP.NET Core · Blazor · EF Core · SQL Server
 
 Retail management platform covering point-of-sale operations,
@@ -27,7 +27,7 @@ inventory, purchasing, suppliers, cashiering, and reconciliation.
 
 [View POS Project →](https://github.com/rconcellado/pamaligya-pos)
 
-### Store Management Platform
+### RV Store - Store Management Platform
 Flutter · ASP.NET Core · Blazor · Next.js · SQL Server
 
 Multi-application retail platform supporting administration,
