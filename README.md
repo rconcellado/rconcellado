@@ -1,4 +1,4 @@
-# Rey Concellado
+# Reynaldo Concellado
 ### Senior Programmer Analyst | Full-Stack Software Developer
 
 I design and develop business applications using C#, ASP.NET Core,
