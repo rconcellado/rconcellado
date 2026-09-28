@@ -17,7 +17,7 @@ Full-stack lending management platform covering borrower management,
 loan processing, repayment scheduling, payment collection, reporting,
 authorization, and financial transaction processing.
 
-[View Project →]
+[View LoanJuan Project →](https://github.com/rconcellado/loanjuan-lending-management)
 
 ### Pamaligya POS Point of Sale & Inventory Management
 ASP.NET Core · Blazor · EF Core · SQL Server
@@ -25,7 +25,7 @@ ASP.NET Core · Blazor · EF Core · SQL Server
 Retail management platform covering point-of-sale operations,
 inventory, purchasing, suppliers, cashiering, and reconciliation.
 
-[View Project →]
+[View POS Project →](https://github.com/rconcellado/store-management)
 
 ### Store Management Platform
 Flutter · ASP.NET Core · Blazor · Next.js · SQL Server
@@ -33,7 +33,7 @@ Flutter · ASP.NET Core · Blazor · Next.js · SQL Server
 Multi-application retail platform supporting administration,
 inventory, sales, consignment, reporting, and storefront operations.
 
-[View Project →]
+[View RV Store Project →](https://github.com/rconcellado/REPOSITORY-NAME)
 
 ## Core Technologies
 
