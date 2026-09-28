@@ -19,7 +19,7 @@ authorization, and financial transaction processing.
 
 [View Project →]
 
-### Pamaligya POS — Point of Sale & Inventory Management
+### Pamaligya POS Point of Sale & Inventory Management
 ASP.NET Core · Blazor · EF Core · SQL Server
 
 Retail management platform covering point-of-sale operations,
@@ -57,7 +57,7 @@ Azure DevOps · CI/CD · Git
 ### Senior Programmer Analyst
 
 **Assiniboine College | Canada**  
-*February 2025 – Present*
+*February 2025 - Present*
 
 I design, develop, enhance, and maintain enterprise software, business intelligence applications, and database solutions based on institutional and client requirements.
 
@@ -95,10 +95,10 @@ Before joining Assiniboine College, I worked on software systems across Canada, 
 
 Previous roles include:
 
-- **Mobile Developer** — Human City, Canada
-- **Full Stack Developer** — ZONE Telecom Pte. Ltd., Singapore
-- **Software Engineer** — AIA Singapore Pte. Ltd.
-- **Full Stack Developer** — MYCOM Systems LLC, Dubai
+- **Mobile Developer** - Human City, Canada
+- **Full Stack Developer** - ZONE Telecom Pte. Ltd., Singapore
+- **Software Engineer** - AIA Singapore Pte. Ltd.
+- **Full Stack Developer** - MYCOM Systems LLC, Dubai
 
 My experience includes modernizing legacy systems, developing financial integrations, automating business processes, supporting production-critical applications, working with Oracle and SQL Server environments, and collaborating directly with business stakeholders.
 
