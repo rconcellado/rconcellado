@@ -1,35 +1,56 @@
-# Reynaldo Concellado
+# Rey Concellado
+### Senior Programmer Analyst | Full-Stack Software Developer
 
-**Senior Software Developer / Programmer Analyst**  
-Brandon, Manitoba, Canada
+I design and develop business applications using C#, ASP.NET Core,
+Flutter, SQL Server/PostgreSQL, and modern CI/CD practices.
 
-I have **10+ years of experience** designing, modernizing, and supporting enterprise software solutions. My work spans full-stack development, system integration, application modernization, database development, DevOps, production support, and translating complex business requirements into maintainable and scalable applications.
+My work focuses on enterprise applications, transactional systems,
+REST APIs, database design, mobile development, automation, and
+application modernization.
 
-I primarily work with **C#, .NET, ASP.NET Core, Entity Framework Core, SQL Server, Azure, and modern web technologies**, with experience delivering solutions from requirements analysis and technical design through development, testing, deployment, and production support.
+## Featured Projects
 
----
+### LoanJuan — Lending Management Platform
+Flutter · ASP.NET Core · EF Core · PostgreSQL · REST API · CI/CD
 
-## Technical Skills
+Full-stack lending management platform covering borrower management,
+loan processing, repayment scheduling, payment collection, reporting,
+authorization, and financial transaction processing.
 
-**Core Development**  
-C# · .NET / ASP.NET Core · Entity Framework Core · REST APIs · JavaScript · TypeScript
+[View Project →]
 
-**Frontend & Mobile**  
-React.js · Razor / Blazor · Flutter · HTML5 · CSS3 · Bootstrap
+### Pamaligya POS — Point of Sale & Inventory Management
+ASP.NET Core · Blazor · EF Core · SQL Server
 
-**Databases**  
-SQL Server · PostgreSQL · Oracle · T-SQL · PL/SQL · MySQL
+Retail management platform covering point-of-sale operations,
+inventory, purchasing, suppliers, cashiering, and reconciliation.
 
-**Cloud & DevOps**  
-Azure DevOps · CI/CD · GitHub Actions · Git · IIS · PowerShell
+[View Project →]
 
-**Architecture & Security**  
-SOLID · Dependency Injection · JWT Authentication · Role-Based Access Control
+### Store Management Platform
+Flutter · ASP.NET Core · Blazor · Next.js · SQL Server
 
-**Additional Technologies**  
-PowerBuilder · VB.NET · Power BI · SSRS · SSIS · ServiceNow
+Multi-application retail platform supporting administration,
+inventory, sales, consignment, reporting, and storefront operations.
 
----
+[View Project →]
+
+## Core Technologies
+
+C# · ASP.NET Core · Entity Framework Core · Flutter · Dart
+SQL Server · PostgreSQL · REST APIs
+Azure DevOps · CI/CD · Git
+
+## Engineering Focus
+
+- Full-stack business application development
+- REST API design
+- Relational database design
+- Financial and transactional processing
+- Mobile application development
+- Authentication and authorization
+- Automated testing
+- CI/CD and deployment automation
 
 ## Current Role
 
