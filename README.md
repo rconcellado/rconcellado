@@ -10,7 +10,7 @@ application modernization.
 
 ## Featured Projects
 
-### LoanJuan — Lending Management Platform
+### LoanJuan Lending Management Platform
 Flutter · ASP.NET Core · EF Core · PostgreSQL · REST API · CI/CD
 
 Full-stack lending management platform covering borrower management,
