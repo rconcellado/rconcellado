@@ -71,13 +71,6 @@ Azure DevOps · CI/CD · Git
 
 I worked on software systems across Canada, Singapore, and the Middle East, including telecommunications, insurance, financial processing, inventory, sales, and enterprise business applications.
 
-Previous roles include:
-
-- **Mobile Developer** - Human City, Canada
-- **Full Stack Developer** - ZONE Telecom Pte. Ltd., Singapore
-- **Software Engineer** - AIA Singapore Pte. Ltd.
-- **Full Stack Developer** - MYCOM Systems LLC, Dubai
-
 My experience includes modernizing legacy systems, developing financial integrations, automating business processes, supporting production-critical applications, working with Oracle and SQL Server environments, and collaborating directly with business stakeholders.
 
 ---
