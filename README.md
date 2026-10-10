@@ -69,7 +69,7 @@ Azure DevOps · CI/CD · Git
 
 ## Professional Background
 
-Before joining Assiniboine College, I worked on software systems across Canada, Singapore, and the Middle East, including telecommunications, insurance, financial processing, inventory, sales, and enterprise business applications.
+I worked on software systems across Canada, Singapore, and the Middle East, including telecommunications, insurance, financial processing, inventory, sales, and enterprise business applications.
 
 Previous roles include:
 
