@@ -89,11 +89,3 @@ Bow Valley College · Calgary, Alberta · 2024
 
 **Bachelor of Science in Computer Science**  
 STI College
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/rconcellado/)  
-[GitHub](https://github.com/rconcellado)  
-[Email](mailto:rey.concellado@gmail.com)
