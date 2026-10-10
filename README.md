@@ -1,4 +1,4 @@
-# Reynaldo Concellado
+# Reynaldo
 ### Senior Programmer Analyst | Full-Stack Software Developer
 
 I design and develop business applications using C#, ASP.NET Core,
