@@ -52,28 +52,6 @@ Azure DevOps · CI/CD · Git
 - Automated testing
 - CI/CD and deployment automation
 
-## Current Role
-
-### Senior Programmer Analyst
-
-**Assiniboine College | Canada**  
-*February 2025 - Present*
-
-I design, develop, enhance, and maintain enterprise software, business intelligence applications, and database solutions based on institutional and client requirements.
-
-My work includes:
-
-- Translating stakeholder and business requirements into technical solutions
-- Developing applications using C#, .NET Core, Entity Framework Core, Razor/Blazor, JavaScript, and SQL Server
-- Designing and supporting REST APIs and database integrations
-- Building and maintaining Power BI, SSRS, and SSIS solutions
-- Improving existing applications through modernization and architectural enhancements
-- Supporting CI/CD, deployment, troubleshooting, and production environments
-- Collaborating with developers, ERP specialists, ITS teams, and business stakeholders
-- Providing technical guidance and mentorship to junior technical staff
-
----
-
 ## Areas of Focus
 
 - Enterprise application development
