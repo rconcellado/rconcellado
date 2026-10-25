@@ -11,11 +11,14 @@ application modernization.
 ## Featured Projects
 
 ### LoanJuan - Lending Management Platform
-Flutter · ASP.NET Core · EF Core · PostgreSQL · REST API · CI/CD
 
-Full-stack lending management platform covering borrower management,
-loan processing, repayment scheduling, payment collection, reporting,
-authorization, and financial transaction processing.
+**Flutter · ASP.NET Core · EF Core · PostgreSQL · REST API · Google Gemini AI · CI/CD**
+
+Production lending management platform supporting borrower and agent management, loan applications and approvals, repayment scheduling, field collections, payment corrections with OTP verification, reporting, and role-based access control.
+
+**AI-Powered Lending Analytics:** Integrated Google Gemini to support natural-language questions about lending operations and portfolio data, with backend-controlled data access and company-scoped authorization. The AI feature complements existing reports without replacing transactional business rules or financial calculations.
+
+**Engineering Highlights:** Transactional financial processing, audit history, automated loan scheduling, Flutter mobile applications, JWT authentication, automated testing, and UAT/production deployment workflows.
 
 [View LoanJuan Project →](https://github.com/rconcellado/loanjuan-lending-management)
 
